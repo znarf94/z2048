@@ -6,13 +6,13 @@ z2048
 Build
 -----
 
-z2048 uses [http://www.z88dk.org/](z88dk) toolchain.
+z2048 uses [z88dk](http://www.z88dk.org/) toolchain.
 Run `./build.sh z2048.c` to compile.
 
 Usage
 -----
 
-You need to install [http://www.ticalc.org/archives/files/fileinfo/130/13059.html](ION) for TI-83 :
+You need to install [ION](http://www.ticalc.org/archives/files/fileinfo/130/13059.html) for TI-83 :
 
 * Download and extract ION
 * Send ion.83g to your calculator
